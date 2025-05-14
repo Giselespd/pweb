@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Jovem potiguar</title>
+    </head>
+    <body>
+        <h2> Tabelas: </h2>
+        <table style= "border: 1px solid rgb(232, 12, 12);" >
+            <tr>
+                <th style="border: 1px solid rgb(232, 12, 12);"> Receita</th>
+                <th >Alíquota</th>
+                <th style ="background-color: aqua; border: 1px solid rgb(232, 12, 12)";>Receber</th>
+            </tr>
+            <tr>
+                <td>R$180</td>
+                <td>R$180</td>
+                <td>R$180</td>
+            </tr>
+            <tr>
+                <td>R$180</td>
+                <td>R$180</td>
+                <td>R$180</td>
+            </tr>
+        </table>
+        <div style="width:200px ; height: 100px; background-color: rgb(0, 255, 255);">
+            <h4>Div 1</h4>
+            <p>Um texto aqui</p>
+            <a href="#"> E mais um link aqui</a>
+        </div>
+        <div style="width: 100px; background-color: red;">
+            <h3>Div 2</h3>
+            <ol>
+                <li>Item 1</li>
+                <li>Item 2</li>
+            </ol>
+        </div>
+        </ul>
+       
+        <p> acesse o google <a href="https://pt.wikipedia.org/wiki/Gato">texto aleatório</a> </p>
+    </body>
+</html> 
